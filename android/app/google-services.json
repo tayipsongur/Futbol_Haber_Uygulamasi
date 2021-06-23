@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611306425306",
+    "project_id": "projectschool-68e65",
+    "storage_bucket": "projectschool-68e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611306425306:android:c8225793ffcb9f966d0ee3",
+        "android_client_info": {
+          "package_name": "com.example.okulprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611306425306-152s9gquod3qek2b2k6sqo301hqa4qd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okulprojesi",
+            "certificate_hash": "3a73c9e7630b854dcf280984b36da1da9b1d439a"
+          }
+        },
+        {
+          "client_id": "611306425306-2cvvoaaiiaescc9hv33ku4h86col95kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuyItSTDE7NSgm99GO9GiHCV0vhn1s0iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611306425306-2cvvoaaiiaescc9hv33ku4h86col95kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
